@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fc23e8fc_c4958546",
+        "filename": "build.gradle",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1016705
+      },
+      "writtenOn": "2019-06-25T10:44:39Z",
+      "side": 1,
+      "message": "Happy coding",
+      "revId": "ce15b407de76c540aedf810c1098fef63d646d26",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
